@@ -1,5 +1,5 @@
 # LID-Research-Survey
-Language Identification Research Survey
+Language Identification Paper Survey
 
 ## InterSpeech 2022
 
