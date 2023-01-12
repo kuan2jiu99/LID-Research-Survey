@@ -39,3 +39,8 @@ Language Identification Paper Survey
 * [3] https://www.isca-speech.org/archive/pdfs/interspeech_2022/zhang22da_interspeech.pdf
 * [4] https://www.isca-speech.org/archive/pdfs/interspeech_2022/shen22b_interspeech.pdf
 * [5] https://www.isca-speech.org/archive/pdfs/interspeech_2022/liu22e_interspeech.pdf
+
+## Note
+* LID缺乏如Libirspeech等的dataset，供作為baseline的比較。因此，雖然每篇paper都提出performance improvement，但是他們提出的baseline比較基準皆不盡相同。
+
+  
